@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Eduardo! 
 
-### Fullstack junior
+### BackEnd junior
 ### Languages and Tools:
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
